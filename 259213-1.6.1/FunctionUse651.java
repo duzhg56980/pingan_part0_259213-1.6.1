@@ -1,0 +1,6 @@
+import org.dom4j.dom.DOMNodeHelper;
+public class FunctionUse651 {
+public void funcUse() {
+DOMNodeHelper domnodehelper = new DOMNodeHelper();
+}
+}

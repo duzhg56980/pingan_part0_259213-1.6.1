@@ -1,0 +1,7 @@
+import org.dom4j.util.IndexedElement;
+public class FunctionUse2546 {
+public void funcUse() {
+IndexedElement indexedelement = new IndexedElement();
+indexedelement.addNode(null);
+}
+}

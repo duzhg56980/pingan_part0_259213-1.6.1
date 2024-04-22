@@ -1,0 +1,7 @@
+import org.dom4j.dom.DOMElement;
+public class FunctionUse532 {
+public void funcUse() {
+DOMElement domelement = new DOMElement();
+domelement.getElementsByTagName(null);
+}
+}
